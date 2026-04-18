@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="mb-6">
-        <h1 class="text-3xl font-light text-gray-800">Laporan Transaksi</h1>
+        <h1 class="text-3xl font-light text-gray-800">Laporan Peminjaman</h1>
     </div>
 
     <div class="bg-white border-t-2 border-blue-500 shadow-sm rounded-b-md overflow-hidden">

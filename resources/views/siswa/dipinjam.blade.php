@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="mb-6">
-        <h1 class="text-3xl font-light text-gray-800">Riwayat Transaksi Aktif</h1>
+        <h1 class="text-3xl font-light text-gray-800">Riwayat Sewa Aktif</h1>
         <p class="text-gray-500 mt-1">Daftar produk yang sedang Anda proses atau pinjam saat ini.</p>
     </div>
 
@@ -92,7 +92,7 @@
                     confirmButtonColor: '#f59e0b'
                 });
             @endif
-                    });
+                            });
 
         function konfirmasiKembali(id, judul) {
             Swal.fire({

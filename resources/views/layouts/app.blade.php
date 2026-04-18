@@ -54,7 +54,7 @@
                         <li>
                             <a href="/transaksi"
                                 class="flex items-center gap-3 px-6 py-3 {{ request()->is('transaksi*') ? 'bg-gray-700 text-white border-l-4 border-teal-500' : 'hover:bg-gray-700 hover:text-white' }}">
-                                <i class="fas fa-file-invoice-dollar w-5"></i> Laporan Transaksi
+                                <i class="fas fa-file-invoice-dollar w-5"></i> Laporan Peminjaman
                             </a>
                         </li>
                     @endif
